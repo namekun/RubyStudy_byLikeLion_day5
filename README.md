@@ -282,10 +282,10 @@ end
 
   *board.erb*
 
-  ```html
+```html
 <h1>제목: <%= @board[1]%></h1>
 <p>본문: <%= @board[2]%></p>
-  ```
+```
 
 
 *boards.erb*
